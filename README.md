@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jane (aka evkdev) 👋</h1>
+<h1 align="center">Hi, I'm Ev (aka evkdev) 👋</h1>
 
 <p align="center">
   Most devs ignore design. Most designers ignore code. I build the bridge.
