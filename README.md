@@ -8,10 +8,15 @@
 
 ### 🧠 About Me
 
-- 🚀 Creative frontend developer focused on building smooth, beautiful, and user-friendly interfaces  
-- 🎥 Passionate about video content and combining tech with storytelling  
-- 🌴 Based in Florida, constantly evolving and refining my craft  
-- 💡 I believe the best products come from balancing design and functionality  
+🚀 Creative frontend dev crafting smooth, stylish, and user-friendly interfaces
+
+🎥 Obsessed with video storytelling and blending tech with emotion
+
+🌴 Florida-based, always leveling up and pushing my skills forward
+
+💡 Firm believer that great products live where design meets function perfectly
+
+
 
 ---
 
