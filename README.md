@@ -34,31 +34,9 @@
 
 ### 📌 Featured Projects
 
-🌐 **[Portfolio Website](#)**  
-Custom React one-pager with smooth animations and clean UI
+🌐 Brand Spotlight Landing
+Crafted a sleek, fully responsive landing page to spotlight a model’s unique style and personal brand. Focused on clean visuals, smooth animations, and seamless user experience — designed to convert visitors into fans.
 
-🎮 **[Mini Game: Emoji Battle](#)**  
-Fun interactive game with localStorage and animated emojis
-
-🎥 **[Custom Video Player](#)**  
-Picture-in-picture support, custom controls, and smooth user experience
-
----
-
-### 🎯 Goals & Focus
-
-- Build interfaces that combine aesthetics and performance  
-- Create engaging video and tech content for my audience  
-- Grow as a frontend dev with clean, maintainable code  
-- Collaborate on projects that value both design and function  
-
----
-
-### 📬 Let's Connect
-
-- 📷 Instagram: [@evkdev](https://instagram.com/evkdev)  
-- 💌 Telegram: [@evkdev](https://t.me/evkdev)  
-- 💼 LinkedIn: [Your LinkedIn](#)  
 
 ---
 
