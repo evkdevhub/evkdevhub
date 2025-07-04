@@ -32,11 +32,10 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Project
 
-🌐 Brand Spotlight Landing
+🌐 **[Brand Spotlight Landing](https://janekostech.com/)**  
 Crafted a sleek, fully responsive landing page to spotlight a model’s unique style and personal brand. Focused on clean visuals, smooth animations, and seamless user experience — designed to convert visitors into fans.
-
 
 ---
 
